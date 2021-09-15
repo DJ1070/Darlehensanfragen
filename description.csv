@@ -21,7 +21,7 @@ minority_population;The percentage of minority population to total population fo
 msamd_name;The Metropolitian Statistical Area/Metropolitian Division (MSA/MD) the property is located in. An MSA is a region with relatively high population density at its core (usually a single large city) and close economic ties throughout. Larger MSAs are divided into MDs.
 number_of_1_to_4_family_units;The number of dwellings in the tract that are built to house fewer than 5 families.
 number_of_owner_occupied_units;The number of dwellings in the tract that are lived in by the owner.
-owner_occupancy_name;The owner-occupancy status of the property. Second homes, vacation homes, and rental properties are classified as "not owner-occupied as a principal dwelling".
+owner_occupancy_name;"The owner-occupancy status of the property. Second homes, vacation homes, and rental properties are classified as ""not owner-occupied as a principal dwelling""."
 population;The total population in the tract.
 preapproval_name;The pre-approval status of the application.
 property_type_name;The type of the property.
